@@ -1,0 +1,88 @@
+.container{
+    height: 100%;
+    width:100%;
+    background-color: rgb(249, 249, 249);;
+    position: relative;
+}.fb{
+    height: 590px;
+    width:50%;
+    position: absolute;
+}
+.wordfb{
+    color : #1877f2;
+    font-size: 4rem;
+    position:absolute;
+    top:150px;
+    left:125px;
+}
+.sentence{
+    font-size:1.75rem;
+    position:absolute;
+    left:125px;
+    top:250px;
+}
+.formside{
+    height: 590px;
+    width:50%;
+    position:absolute;
+    left:50%;
+}
+.formfb{
+    height:400px;
+    width: 400px;
+    background-color: white;
+    position:absolute;
+    left:135px;
+    top:75px;
+}
+.name{
+    width:85%;
+    height: 50px;
+    position:absolute;
+    right: 30px;
+    top:40px;
+}
+.pass{
+    width:85%;
+    height: 50px;
+    position:absolute;
+    right:30px;
+    top:120px;
+}
+.sign-in{
+    position: absolute;
+    width: 85%;  
+    right:30px;
+    height: 50px;
+    bottom: 150px;
+    font-size: 1.25rem;
+    color: white;
+    background-color:#1877f2; 
+    border: 1px solid #EEEEEE;
+}
+.forgotpass{
+    position: absolute;
+    top:270px;
+    right:130px;
+    color: #1877f2;
+}
+.line{
+    margin-top: 63%;
+    width: 85%;
+}
+.create{
+    position: absolute;
+    width:65%;
+    height:50px;
+    bottom: 20px;
+    right: 70px;
+    font-size: 1.25rem;
+    color: white;
+    background-color: #5fb637;
+    border: 1px solid #EEEEEE;
+}
+.group{
+    margin-top: 77%;
+    margin-left: 30%;;
+}
+
